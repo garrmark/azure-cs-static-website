@@ -1,2 +1,3 @@
 config:
   pulumi:template: https://github.com/pulumi/examples/tree/master/azure-cs-static-website
+  azure-native:location: westus
