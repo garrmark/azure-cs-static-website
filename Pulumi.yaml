@@ -1,0 +1,7 @@
+name: azure-cs-static-website
+runtime: dotnet
+description: An example of a static website hosted on Azure Blob Storage + Azure CDN.
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://github.com/pulumi/examples/blob/master/azure-cs-static-website/README.md
